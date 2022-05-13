@@ -5,8 +5,8 @@
 
 #Modulos Abordados
 
-*Flex box
-*Designer Responsivo
-*Gradiente
-*Links
-*Fonts
+* Flex box
+* Designer Responsivo
+* Gradiente
+* Links
+* Fonts
